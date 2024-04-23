@@ -1,1 +1,3 @@
-this is revision
+this is revision 
+first i try git with stage
+it is git commit with out stage
